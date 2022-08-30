@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    text-align: center;
+
+    background-color: rgb(224, 219, 219);
+    background-size: 200px;
+}
+.games
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.game1{
+   display:flex;
++
+
+}
+
+.abrar{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius:50%;
+    margin-right: 10px;
+}
+h3{
+    margin-top: 20px;
+}
